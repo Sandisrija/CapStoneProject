@@ -1,2 +1,2 @@
-# CapStoneProject
- powerful application that bridges the gap between sign language and digital communication. This repository features a system that translates hand gestures into both spoken language and text, enabling seamless interaction for users with hearing or speech impairments.
+# (2)A-NOVEL-TECHNIQUE-FOR-HAND-GESTURE-TO-SENTENCE-RECOGNITION-USING-INDUSTRY-4.0
+A hand gesture gecognition and  sentenced speech conversion for the differently abled people
